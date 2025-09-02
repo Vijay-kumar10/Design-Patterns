@@ -1,0 +1,3 @@
+ interface AndroidCharger {
+    void chargeAndroidPhone();  
+}
